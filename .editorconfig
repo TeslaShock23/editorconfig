@@ -15,7 +15,7 @@ root = true
 [*]
 charset = utf-8utf-8-bom
 indent_style = space
-indent_size = 16  # A property with the same name was updated with a value 2 in a section [{*.har,*.inputactions,*.jsb2,*.jsb3,*.json,.babelrc,.eslintrc,.stylelintrc,bowerrc,jest.config}]
+indent_size = 4  # A property with the same name was updated with a value 2 in a section [{*.har,*.inputactions,*.jsb2,*.jsb3,*.json,.babelrc,.eslintrc,.stylelintrc,bowerrc,jest.config}]
 insert_final_newline = true
 trim_trailing_whitespace = true
 end_of_line = crlf
